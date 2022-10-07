@@ -1,0 +1,16 @@
+span {
+    /* background-color: aqua; */
+    padding: 0px;
+}
+.ant-progress,
+.ant-progress-line,
+.ant-progress-status-normal, 
+.ant-progress-show-info, 
+.ant-progress-default {
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
